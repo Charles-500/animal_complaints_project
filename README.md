@@ -2,7 +2,7 @@
 
 This repo contains the Animal Complaints Project for the Data Analytics with Python Course.
 
-## Structure of the Project
+## Structure of the Project Report
 
 1. Overview / Description
 
