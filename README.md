@@ -13,19 +13,19 @@ The project investigated the animal complaints received by the Brisbane City Cou
 All data is available at the following google drive link. It contains 3 folders as follows:
     https://drive.google.com/drive/folders/1aWxBN4eoFGGi9rfpn-yRo4ZwKpETKg0M?usp=sharing
 
-    a. Source Data. This includes two sources:
+   #### a. Source Data. This includes two sources:
     
-    i) Brisbane City Council (BCC) animal complaints received by quarter from Oct-2018 to Sept-2020
+   i) Brisbane City Council (BCC) animal complaints received by quarter from Oct-2018 to Sept-2020
     
-    ii) Australian Bureau of Statistics (ABS) suburb population Census data 2016
+   ii) Australian Bureau of Statistics (ABS) suburb population Census data 2016
 
-    b. Cleaned Data
+   #### b. Cleaned Data
     
-    This is is the data resulting from the cleaning process used for the Analysis
+   This is is the data resulting from the cleaning process used for the Analysis
     
-    c. Discarded Source Data. 
+   #### c. Discarded Source Data. 
     
-    This includes a BCC community builder Local Government Area suburb population break down for Brisbane which was originally used for suburb match but proved unsuccessful.
+   This includes a BCC community builder Local Government Area suburb population break down for Brisbane which was originally used for suburb match but proved unsuccessful.
 
 
 ### 3. Cleaning Process and Code
