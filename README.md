@@ -2,11 +2,11 @@
 
 This repo contains the Animal Complaints Project for the Data Analytics with Python Course.
 
-## Structure of the Project Report
+## Structure of the Project Report (this is the project_summary notebook file within the report folder)
 
 1. Overview / Description
 
-2. Data
+2. Data (located separately in google drive)
 
     All data is available at the following google drive link. It contains 3 folders
     https://drive.google.com/drive/folders/1aWxBN4eoFGGi9rfpn-yRo4ZwKpETKg0M?usp=sharing
@@ -25,10 +25,10 @@ This repo contains the Animal Complaints Project for the Data Analytics with Pyt
 
 
 3. Cleaning Process and Code
-    - Data Gathering
-    - Data Compiling
-    - Data Cleaning
-    - Analysis Preparation
+    - Data Gathering (process outlined in project_summary notebook in report folder)
+    - Data Compiling (process outlined in project_summary notebook in report folder)
+    - Data Cleaning (code used can be seen in the cleaning_inc_initial_analysis notebook in the code folder)
+    - Analysis Preparation (code used can be seen in the analysis_workings notebook folder in the code folder)
     
     
 4. Results - Questions and Analysis
